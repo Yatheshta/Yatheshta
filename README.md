@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Yatheshta Vijay.
-- 👀 I’m interested in learning new things relating to any domain.
 - 🌱 I’m currently learning Web Development and Data Structures.
 
 <!---
